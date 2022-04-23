@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 //Hello Chi
     //Hello CC
     //Hello Hoang Map
-    //Chao Em
+    //Hảo Hảo Chua Cay
     @Override
     public boolean onSupportNavigateUp() {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
